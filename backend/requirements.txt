@@ -8,3 +8,4 @@ Pillow
 sqlalchemy
 
 scikit-image
+torch
